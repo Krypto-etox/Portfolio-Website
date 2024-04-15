@@ -1,0 +1,118 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+	font-family: "flaticon_gerold";
+	src: url("../fonts/flaticon_gerold.woff2")
+			format("woff2"),
+		url("../fonts/flaticon_gerold.woff")
+			format("woff"),
+		url("../fonts/flaticon_gerold.eot#iefix")
+			format("embedded-opentype"),
+		url("../fonts/flaticon_gerold.ttf")
+			format("truetype"),
+		url("../images/flaticon_gerold.svg#flaticon_gerold")
+			format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+	font-family: flaticon_gerold !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-up-right-arrow:before {
+    content: "\f101";
+}
+.flaticon-clock:before {
+    content: "\f102";
+}
+.flaticon-calendar:before {
+    content: "\f103";
+}
+.flaticon-phone-call:before {
+    content: "\f104";
+}
+.flaticon-mail-inbox-app:before {
+    content: "\f105";
+}
+.flaticon-location:before {
+    content: "\f106";
+}
+.flaticon-management-service:before {
+    content: "\f107";
+}
+.flaticon-home-button:before {
+    content: "\f108";
+}
+.flaticon-suitcase:before {
+    content: "\f109";
+}
+.flaticon-resume:before {
+    content: "\f10a";
+}
+.flaticon-skill-development:before {
+    content: "\f10b";
+}
+.flaticon-rating:before {
+    content: "\f10c";
+}
+.flaticon-communicate:before {
+    content: "\f10d";
+}
+.flaticon-design:before {
+    content: "\f10e";
+}
+.flaticon-3d-movie:before {
+    content: "\f10f";
+}
+.flaticon-ux-design:before {
+    content: "\f110";
+}
+.flaticon-web-design:before {
+    content: "\f111";
+}
+.flaticon-ui-design:before {
+    content: "\f112";
+}
+.flaticon-seo:before {
+    content: "\f113";
+}
+.flaticon-user-experience:before {
+    content: "\f114";
+}
+.flaticon-experience:before {
+    content: "\f115";
+}
+.flaticon-certificate:before {
+    content: "\f116";
+}
+.flaticon-recommendation:before {
+    content: "\f117";
+}
+.flaticon-school:before {
+    content: "\f118";
+}
+.flaticon-mortarboard:before {
+    content: "\f119";
+}
+.flaticon-graduation-cap:before {
+    content: "\f11a";
+}
+.flaticon-download:before {
+    content: "\f11b";
+}
